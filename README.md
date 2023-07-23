@@ -1,0 +1,1 @@
+# office-activation-script
